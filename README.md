@@ -1,5 +1,6 @@
 # BASL-BADRY-MID-PROJECT-EPSILON
-this is basel badry mid-project for data science epsilon course
+
+# this is basel badry mid-project for data science epsilon course
 About Dataset
 The Uncleaned Laptop Price dataset is a collection of laptop product listings scraped from an online e-commerce website. The dataset includes information about various laptop models, such as their brand, screen size, processor, memory, storage capacity, operating system, and price. However, the dataset is uncleaned, meaning that it contains missing values, inconsistent formatting, and other errors that need to be addressed before the data can be used for analysis or modeling.
 
